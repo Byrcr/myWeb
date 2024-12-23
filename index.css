@@ -1,0 +1,16 @@
+
+.image-form{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+.Login-form{
+display: block;
+width: 250px;
+padding: 50px;
+background-color: rgb(103, 185, 236);
+}
